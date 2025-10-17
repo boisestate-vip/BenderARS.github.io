@@ -5,8 +5,8 @@
   "description": "Bender Autonomous Robotic Systems website built with React, Vite and Tailwind CSS.",
   "scripts": {
     "dev": "vite",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist -c benderars.com",
+    "predeploy": "npm run build && echo benderars.com > dist/CNAME",
+    "deploy": "gh-pages -d dist",
     "build": "vite build",
     "preview": "vite preview"
   },
