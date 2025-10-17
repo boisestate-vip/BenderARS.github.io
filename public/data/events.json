@@ -1,0 +1,32 @@
+[
+  {
+    "title": "SSR — Systems & Strategy Review",
+    "dt": "2025-09-29T17:00:00",
+    "tickets": "#",
+    "planned": false
+  },
+  {
+    "title": "PDR — Preliminary Design Review",
+    "dt": "2025-11-03T17:00:00",
+    "tickets": "https://www.eventbrite.com/e/1816361880279?aff=oddtdtcreator",
+    "planned": false
+  },
+  {
+    "title": "CDR — Critical Design Review",
+    "dt": "2025-12-01T17:00:00",
+    "tickets": "#",
+    "planned": false
+  },
+  {
+    "title": "NASA P&D Practice Presentation",
+    "dt": null,
+    "tickets": "#",
+    "planned": true
+  },
+  {
+    "title": "Public Showcase & Open House",
+    "dt": null,
+    "tickets": "#",
+    "planned": true
+  }
+]

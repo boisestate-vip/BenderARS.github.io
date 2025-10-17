@@ -1,0 +1,33 @@
+{
+  "boilerplate": "Bender ARS is a class/ club at Boise State University focused on NASA Lunabotics. Each season, students design, build, and validate an autonomous rover to excavate and transport lunar regolith simulant under realistic constraints. The program is structured like a real engineering effort—requirements, interfaces, verification plans, and formal design reviews—supported by mentors from industry and academia. Beyond the lab, Bender ARS hosts public demos, classroom visits, and community events to make advanced robotics accessible in Idaho. Recent highlights include national recognition for innovation and autonomy, with growing partnerships across local tech and manufacturing. Sponsors and donors power materials, testing, and travel, directly impacting student learning and regional STEM momentum.",
+  "fastFacts": {
+    "founded": "2024",
+    "teamSize": "30+ students",
+    "highlights": ["NOVA Award (2025)", "16th Overall", "First Idaho Team"]
+  },
+  "contacts": [
+    {"name":"Lead Instructor - Steve Swanson","email":"SteveSwanson@Boisestate.edu"},
+    {"name":"Instructor - Oliver MacDonald","email":"OliverMacDonald@Boisestate.edu"}
+  ],
+  "logos": [
+    {"name":"Primary (SVG)","src":"/press/logos/bender-primary.svg"},
+    {"name":"Primary (PNG)","src":"/press/logos/bender-primary.png"},
+    {"name":"Reversed (SVG)","src":"/press/logos/bender-reversed.svg"},
+    {"name":"Reversed (PNG)","src":"/press/logos/bender-reversed.png"}
+  ],
+  "photos": [
+    {"caption":"Bender robot in lab","src":"/press/photos/robot-hero.jpg","credit":"Bender ARS"},
+    {"caption":"Team at review","src":"/press/photos/team-wide.jpg","credit":"Bender ARS"}
+  ],
+  "links": [
+    {"label":"Website","href":"/"},
+    {"label":"NASA Lunabotics","href":"https://www.nasa.gov/stem/robotics/lunabotics.html"},
+    {"label":"Sponsor","href":"/sponsors"},
+    {"label":"Donate","href":"/donate"}
+  ],
+  "social": {
+    "instagram":"https://instagram.com/…",
+    "youtube":"https://youtube.com/…",
+    "linkedin":"https://www.linkedin.com/…"
+  }
+}
