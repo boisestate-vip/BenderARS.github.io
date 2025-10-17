@@ -1,5 +1,6 @@
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
+import ScrollToTop from "./components/ScrollToTop";
 import Layout from './components/Layout.jsx';
 import Home from './pages/Home.jsx';
 import About from './pages/About.jsx';
@@ -21,6 +22,7 @@ import Donate from './pages/Donate.jsx';
 function App() {
   return (
     <Layout>
+      <ScrollToTop />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
