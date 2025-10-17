@@ -1,0 +1,305 @@
+[
+  {
+    "id": "2024_2025_team_photo-team",
+    "src": "/assets/gallery/2024_2025_team_photo-team.jpeg",
+    "alt": "2024 2025 team photo",
+    "tags": [
+      "team"
+    ]
+  },
+  {
+    "id": "Bender_at_competition-2024_2025_competition",
+    "src": "/assets/gallery/Bender_at_competition-2024_2025_competition.jpg",
+    "alt": "Bender at competition",
+    "tags": [
+      "2024_2025_competition"
+    ]
+  },
+  {
+    "id": "Bender_Robot_in_competition-2024_2025_competition",
+    "src": "/assets/gallery/Bender_Robot_in_competition-2024_2025_competition.jpg",
+    "alt": "Bender Robot in competition",
+    "tags": [
+      "2024_2025_competition"
+    ]
+  },
+  {
+    "id": "Bender_Waving-2024_2025_competition",
+    "src": "/assets/gallery/Bender_Waving-2024_2025_competition.jpg",
+    "alt": "Bender Waving",
+    "tags": [
+      "2024_2025_competition"
+    ]
+  },
+  {
+    "id": "chassis_initial_design-chassis-design",
+    "src": "/assets/gallery/chassis_initial_design-chassis-design.jpeg",
+    "alt": "Chassis initial design",
+    "tags": [
+      "chassis",
+      "design"
+    ]
+  },
+  {
+    "id": "controlling_the_robot-testing",
+    "src": "/assets/gallery/controlling_the_robot-testing.jpg",
+    "alt": "Controlling the robot",
+    "tags": [
+      "testing"
+    ]
+  },
+  {
+    "id": "drivetrain_3d_printed_prototype-drivetrain-testing",
+    "src": "/assets/gallery/drivetrain_3d_printed_prototype-drivetrain-testing.jpg",
+    "alt": "Drivetrain 3d printed prototype",
+    "tags": [
+      "drivetrain",
+      "testing"
+    ]
+  },
+  {
+    "id": "drivetrain_3d_printing_prototype-drivetrain-testing",
+    "src": "/assets/gallery/drivetrain_3d_printing_prototype-drivetrain-testing.jpg",
+    "alt": "Drivetrain 3d printing prototype",
+    "tags": [
+      "drivetrain",
+      "testing"
+    ]
+  },
+  {
+    "id": "drivetrain_3d_printing_tread-drivetrain-testing",
+    "src": "/assets/gallery/drivetrain_3d_printing_tread-drivetrain-testing.jpg",
+    "alt": "Drivetrain 3d printing tread",
+    "tags": [
+      "drivetrain",
+      "testing"
+    ]
+  },
+  {
+    "id": "IMG_1124",
+    "src": "/assets/gallery/IMG_1124.jpg",
+    "alt": "IMG 1124",
+    "tags": []
+  },
+  {
+    "id": "IMG_20250517_083611_550",
+    "src": "/assets/gallery/IMG_20250517_083611_550.jpg",
+    "alt": "IMG 20250517 083611 550",
+    "tags": []
+  },
+  {
+    "id": "Initial_Chassis_Sketch-design-chassis",
+    "src": "/assets/gallery/Initial_Chassis_Sketch-design-chassis.jpeg",
+    "alt": "Initial Chassis Sketch",
+    "tags": [
+      "design",
+      "chassis"
+    ]
+  },
+  {
+    "id": "judge_reviewing_robot-2024_2025_competition",
+    "src": "/assets/gallery/judge_reviewing_robot-2024_2025_competition.jpg",
+    "alt": "Judge reviewing robot",
+    "tags": [
+      "2024_2025_competition"
+    ]
+  },
+  {
+    "id": "lidar_demonstration-outreach",
+    "src": "/assets/gallery/lidar_demonstration-outreach.jpg",
+    "alt": "Lidar demonstration",
+    "tags": [
+      "outreach"
+    ]
+  },
+  {
+    "id": "removing-robot-from-regolith-2024_2025_competition",
+    "src": "/assets/gallery/removing-robot-from-regolith-2024_2025_competition.jpg",
+    "alt": "Removing",
+    "tags": [
+      "robot",
+      "from",
+      "regolith",
+      "2024_2025_competition"
+    ]
+  },
+  {
+    "id": "robot_after_sand_dig_test-testing",
+    "src": "/assets/gallery/robot_after_sand_dig_test-testing.jpg",
+    "alt": "Robot after sand dig test",
+    "tags": [
+      "testing"
+    ]
+  },
+  {
+    "id": "Robot_at_competition_digging-2024_2025_competition",
+    "src": "/assets/gallery/Robot_at_competition_digging-2024_2025_competition.jpg",
+    "alt": "Robot at competition digging",
+    "tags": [
+      "2024_2025_competition"
+    ]
+  },
+  {
+    "id": "robot_demo-outreach",
+    "src": "/assets/gallery/robot_demo-outreach.jpg",
+    "alt": "Robot demo",
+    "tags": [
+      "outreach"
+    ]
+  },
+  {
+    "id": "Robot_dig_test_in_sand-testing",
+    "src": "/assets/gallery/Robot_dig_test_in_sand-testing.jpg",
+    "alt": "Robot dig test in sand",
+    "tags": [
+      "testing"
+    ]
+  },
+  {
+    "id": "robot_digging_regolith-2024_2025_competition",
+    "src": "/assets/gallery/robot_digging_regolith-2024_2025_competition.jpg",
+    "alt": "Robot digging regolith",
+    "tags": [
+      "2024_2025_competition"
+    ]
+  },
+  {
+    "id": "robot_loading_into_regolith_pit-2024_2025_competition",
+    "src": "/assets/gallery/robot_loading_into_regolith_pit-2024_2025_competition.jpg",
+    "alt": "Robot loading into regolith pit",
+    "tags": [
+      "2024_2025_competition"
+    ]
+  },
+  {
+    "id": "robot_moving_through_regolith-2024_2025_competition",
+    "src": "/assets/gallery/robot_moving_through_regolith-2024_2025_competition.jpg",
+    "alt": "Robot moving through regolith",
+    "tags": [
+      "2024_2025_competition"
+    ]
+  },
+  {
+    "id": "robot_prototype-outreach",
+    "src": "/assets/gallery/robot_prototype-outreach.jpg",
+    "alt": "Robot prototype",
+    "tags": [
+      "outreach"
+    ]
+  },
+  {
+    "id": "Robot_staged_for_competition-2024_2025_competition",
+    "src": "/assets/gallery/Robot_staged_for_competition-2024_2025_competition.jpg",
+    "alt": "Robot staged for competition",
+    "tags": [
+      "2024_2025_competition"
+    ]
+  },
+  {
+    "id": "Robot_test_in_sand_pit-testing",
+    "src": "/assets/gallery/Robot_test_in_sand_pit-testing.jpg",
+    "alt": "Robot test in sand pit",
+    "tags": [
+      "testing"
+    ]
+  },
+  {
+    "id": "Students_testing_manual_controls-testing",
+    "src": "/assets/gallery/Students_testing_manual_controls-testing.jpg",
+    "alt": "Students testing manual controls",
+    "tags": [
+      "testing"
+    ]
+  },
+  {
+    "id": "Students_testing_robot_on_sand-testing",
+    "src": "/assets/gallery/Students_testing_robot_on_sand-testing.jpg",
+    "alt": "Students testing robot on sand",
+    "tags": [
+      "testing"
+    ]
+  },
+  {
+    "id": "students_unloading_robot-2024_2025_competition",
+    "src": "/assets/gallery/students_unloading_robot-2024_2025_competition.jpg",
+    "alt": "Students unloading robot",
+    "tags": [
+      "2024_2025_competition"
+    ]
+  },
+  {
+    "id": "students_watching_robot_compete-2024_2025_competition",
+    "src": "/assets/gallery/students_watching_robot_compete-2024_2025_competition.jpg",
+    "alt": "Students watching robot compete",
+    "tags": [
+      "2024_2025_competition"
+    ]
+  },
+  {
+    "id": "Students_working_on_motor-drivetrain-build",
+    "src": "/assets/gallery/Students_working_on_motor-drivetrain-build.jpg",
+    "alt": "Students working on motor",
+    "tags": [
+      "drivetrain",
+      "build"
+    ]
+  },
+  {
+    "id": "team_in_regolith_with_robot-2024_2025_competition",
+    "src": "/assets/gallery/team_in_regolith_with_robot-2024_2025_competition.jpg",
+    "alt": "Team in regolith with robot",
+    "tags": [
+      "2024_2025_competition"
+    ]
+  },
+  {
+    "id": "Team_meeting-2024",
+    "src": "/assets/gallery/Team_meeting-2024.jpg",
+    "alt": "Team meeting",
+    "tags": [
+      "2024"
+    ]
+  },
+  {
+    "id": "team_watching_other_robot_trials-2024_2025_competition",
+    "src": "/assets/gallery/team_watching_other_robot_trials-2024_2025_competition.jpg",
+    "alt": "Team watching other robot trials",
+    "tags": [
+      "2024_2025_competition"
+    ]
+  },
+  {
+    "id": "team_working_on_robot-2024_2025_competition-build",
+    "src": "/assets/gallery/team_working_on_robot-2024_2025_competition-build.jpg",
+    "alt": "Team working on robot",
+    "tags": [
+      "2024_2025_competition",
+      "build"
+    ]
+  },
+  {
+    "id": "Testing_sand_filled_drum-testing",
+    "src": "/assets/gallery/Testing_sand_filled_drum-testing.jpg",
+    "alt": "Testing sand filled drum",
+    "tags": [
+      "testing"
+    ]
+  },
+  {
+    "id": "Track_full_scale_prototype-build-drivetrain",
+    "src": "/assets/gallery/Track_full_scale_prototype-build-drivetrain.jpg",
+    "alt": "Track full scale prototype",
+    "tags": [
+      "build",
+      "drivetrain"
+    ]
+  },
+  {
+    "id": "view_of_circuit_board_throught_the_robot-2024_2025_competition",
+    "src": "/assets/gallery/view_of_circuit_board_throught_the_robot-2024_2025_competition.jpg",
+    "alt": "View of circuit board throught the robot",
+    "tags": [
+      "2024_2025_competition"
+    ]
+  }
+]
