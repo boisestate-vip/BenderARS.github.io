@@ -48,7 +48,7 @@ const Contact = () => {
                   </p>
                   <div className="mt-3 flex flex-wrap gap-3">
                     <Link
-                      to="/about#coaches"
+                      to="https://www.boisestate.edu/professorofpractice/steve-swanson/"
                       className="px-3 py-1.5 rounded-lg border border-dark-accent text-dark-accent hover:bg-dark-accent hover:text-dark-bg transition text-sm"
                     >
                       Read more about Dr. Swanson
@@ -75,14 +75,14 @@ const Contact = () => {
                     Mentor for the Autonomous Robotics Systems VIP, bringing founder and R&amp;D consulting experience
                     to build a studio-style environment that mirrors professional engineering teams.
                   </p>
-                  <div className="mt-3 flex flex-wrap gap-3">
+                  {/* <div className="mt-3 flex flex-wrap gap-3">
                     <Link
                       to="/about#coaches"
                       className="px-3 py-1.5 rounded-lg border border-dark-accent text-dark-accent hover:bg-dark-accent hover:text-dark-bg transition text-sm"
                     >
                       Read more about Oliver
                     </Link>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </article>
