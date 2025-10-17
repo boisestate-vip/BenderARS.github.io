@@ -1,7 +1,7 @@
 {
   "name": "bender-ars-site",
   "version": "1.0.0",
-  "homepage": "https://benderars.github.io/react-gh-pages",
+  "homepage": "https://boisestate-vip.github.io/BenderARS.github.io/",
   "description": "Bender Autonomous Robotic Systems website built with React, Vite and Tailwind CSS.",
   "scripts": {
     "dev": "vite",
